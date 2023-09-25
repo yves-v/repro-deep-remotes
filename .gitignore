@@ -1,3 +1,4 @@
 .yarn
-.yarnrc.yml
+.yarnrc-copy.yml
 yarn.lock
+node_modules
